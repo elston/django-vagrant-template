@@ -1,0 +1,9 @@
+*.pyc
+*.pid
+__pycache__
+
+*.vagrant/*
+*.env/*
+*djangotest/*
+*logs/*
+*static/*
